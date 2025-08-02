@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=SCZ0BZq-jqY  - source video
+
+https://www.youtube.com/watch?v=E1qB7t72Za8 - venv video
+
+
+create virtual envi: python -m venv medical_env
+
+activate virtual envi: medical_env\Scripts\activate
+
+
+
+
+#------------Comman to run ---------------
+
+Fontend: streamlit run frontend.py
